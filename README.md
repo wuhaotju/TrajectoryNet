@@ -1,7 +1,9 @@
 # TrajectoryNet
 Source code of ECML PKDD 2017 submission: TrajectoryNet
-Paper title: TrajectoryNet: An Embedded GPS Trajectory Representation for Point-based Classification Using Recurrent Neural Networks
-Authors: Xiang Jiang, Erico N de Souza, Ahmad Pesaranghader, Baifan Hu, Daniel L. Silver and Stan Matwin
+
+**Paper title**: TrajectoryNet: An Embedded GPS Trajectory Representation for Point-based Classification Using Recurrent Neural Networks
+
+**Authors**: Xiang Jiang, Erico N de Souza, Ahmad Pesaranghader, Baifan Hu, Daniel L. Silver and Stan Matwin
 
 
 # Dependencies
@@ -36,5 +38,6 @@ The file config.json includes the configurations of the model:
 python trajectoryNet.py
 
 # Preprocessing
-In case you are interested in the preprocessing and discretization of the data, please refer to file preprocess.R.
+In case you are interested in the preprocessing and discretization of the data, please refer to file `preprocess.R`.
+
 After the preprocess data are stored in a .csv file, it is required to run `create_npy.py` to transform the data into .npy format to get ready to import to Tensorflow.
