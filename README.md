@@ -1,7 +1,7 @@
 # TrajectoryNet
 Source code of ECML PKDD 2017 submission: TrajectoryNet
 
-**Paper title**: TrajectoryNet: An Embedded GPS Trajectory Representation for Point-based Classification Using Recurrent Neural Networks
+**Title**: TrajectoryNet: An Embedded GPS Trajectory Representation for Point-based Classification Using Recurrent Neural Networks
 
 **Authors**: Xiang Jiang, Erico N de Souza, Ahmad Pesaranghader, Baifan Hu, Daniel L. Silver and Stan Matwin
 
