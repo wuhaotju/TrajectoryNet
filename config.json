@@ -1,0 +1,23 @@
+{
+"task": "trajectoryNet",
+"testmode": "lobo",
+"val_id": [6], 
+"test_id": [0,1,2,3,4,5],
+"hidden_size": 50,
+"learning_rate": 0.01,
+"batch_size": 128,
+"num_layers": 2,
+"num_epochs": 100,
+"activation": "maxout",
+"deep_gate": false,
+"checkpoint": false,
+"restore":false,
+"truncated_seq_len":250,
+"init_scale": 0.001,
+"weight_initializer": "uniform",
+"evaluate_freq": 47,
+"num_threads": 200,
+"tensorboard":false,
+"useGPU":false,
+"test_mode": false
+}
