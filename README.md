@@ -18,7 +18,7 @@ The follwoing softwares are required for this source code.
 The data can be downloaded from this [link](https://drive.google.com/open?id=0B_8r6OqflofXXzZheTVEc2h6Nms).
 This dataset contains raw data as well as the preprocessed data in .npy format.
 
-# Network Configuration
+# Network Configurations
 The file config.json includes the configurations of the model:
 - training, validation and test set selection
 - number of hidden nodes in each layer
