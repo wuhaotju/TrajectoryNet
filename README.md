@@ -1,5 +1,4 @@
 # TrajectoryNet
-Source code of ECML PKDD 2017 submission: TrajectoryNet
 
 **Title**: TrajectoryNet: An Embedded GPS Trajectory Representation for Point-based Classification Using Recurrent Neural Networks
 
